@@ -1,9 +1,9 @@
-import React from 'react'
 
 const WhyMe = () => {
   return (
-    <div>
-        <div>
+    <section className="px-10 py-10 mx-auto container min-h-screen">
+    <div className="py-10 mx-10 px-10">
+        <div className="flex flex-col text-center justify-center items-center py-10">
             <p>
             Passionate about software development and technology
             </p>
@@ -13,6 +13,7 @@ const WhyMe = () => {
             <p>Need to proactively learn new skills and keep up-to-date with the latest advances and trends in technology</p>
         </div>
     </div>
+    </section>
   )
 }
 
