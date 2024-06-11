@@ -1,16 +1,33 @@
+import Image from "next/image"
+import { FaBook, FaCodeBranch, FaComputer, FaRegCalendar } from "react-icons/fa6"
 
 const Match = () => {
   return (
     <section className="px-10 py-10 mx-auto container min-h-screen">
     <div className="py-10 mx-10 px-10">
+    <div className="flex flex-col text-center justify-center items-center py-10">
+        <div className="h-64 w-96 relative">
+          <Image
+            src={"/monkey_image.jpg"}
+            className="w-full h-auto sm:w-auto sm:max-w-lg mx-auto rounded-lg"
+            alt="A portrait image of a monkey that looks similar to the developer."
+            layout="fill"
+            objectFit="contain"
+          />
+        </div>
+
+            
+        </div>
+
+
         <div className="flex flex-col text-center justify-center items-center py-10">
           <h2 className="font-black text-5xl py-5">It's a match?</h2>
-          <h3 className="text-2xl py-5">Still not decided? Here's some fun facts about me:</h3>
-           <ul>
-            <li>I recently built my first ever PC</li>
-            <li>I'm an advocate of hybrid working and the four day week. Check out this article I wrote on it.</li>
-            <li>I like to read (wow so cool)</li>
-            <li>I volunteer with Code Your Future, a non-profit that helps marginalised people learn how to code.</li>
+          <h3 className="text-2xl py-5">Want to learn more about me? Here are some fun facts:</h3>
+           <ul className="space-y-4">
+            <li className="flex items-center space-x-2"><FaComputer /> I recently built my first ever PC</li>
+            <li className="flex items-center space-x-2"> <FaRegCalendar /> I'm an advocate of hybrid working and the four day week. Check out this <a className="underline" target="blank" href="https://www.itpro.com/business-strategy/flexible-working/361831/why-its-time-for-a-three-day-working-week-in-2022">article I wrote on it.</a></li>
+            <li className="flex items-center space-x-2"> <FaBook /> I like to read (wow so cool)</li>
+            <li className="flex items-center space-x-2"> <FaCodeBranch /> I volunteer with Code Your Future, a non-profit that helps marginalised people learn how to code.</li>
            </ul>
         </div>
     </div>

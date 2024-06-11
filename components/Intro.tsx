@@ -18,7 +18,7 @@ const Intro = () => {
             
         </div>
        
-        <div className="flex flex-row items-center py-5 ">
+        <div className="flex flex-row text-center items-center py-5 ">
           <h2 className="font-black text-5xl py-5">Hi, I'm Zach and I'm applying to the position of Front-End Developer at Rusty Monkey</h2>
         </div>
         <p className="text-2xl">
