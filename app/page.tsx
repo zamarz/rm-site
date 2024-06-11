@@ -1,4 +1,3 @@
-import Extra from "@/components/Extra";
 import Intro from "@/components/Intro";
 import Match from "@/components/Match";
 import Navbar from "@/components/Navbar";
@@ -11,7 +10,6 @@ export default function Home() {
       <Intro />
       <Skills />
       <Match />
-      <Extra />
     </main>
   );
 }
