@@ -21,7 +21,7 @@ const Match = () => {
 
 
         <div className="flex flex-col text-center justify-center items-center py-10">
-          <h2 className="font-black text-3xl lg:text-5xl py-5">It's a match?</h2>
+          <h2 className="font-black text-3xl lg:text-5xl py-5">It&apos;s a match?</h2>
           <h3 className="text-xl lg:text-2xl py-5">Want to learn more about me? Here are some fun facts:</h3>
            <ul className="space-y-4 align-middle flex flex-col lg:text-2xl">
             <li className="flex flex-col items-center space-x-2 "><FaComputer /> I recently <span className="underline decoration-secondary">built my first ever PC</span></li>

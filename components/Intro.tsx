@@ -19,17 +19,17 @@ const Intro = () => {
         </div>
        
         <div className="flex flex-row text-center items-center py-5 ">
-          <h2 className="font-black text-2xl lg:text-5xl py-5">Hi, I'm Zach and I'm applying to the position of Front-End Developer at <span className="underline decoration-primary">Rusty Monkey</span></h2>
+          <h2 className="font-black text-2xl lg:text-5xl py-5">Hi, I&apos;m Zach and I&apos;m applying to the position of Front-End Developer at <span className="underline decoration-primary">Rusty Monkey</span></h2>
         </div>
         <p className="md:text-2xl">
-        I am an enthusiastic developer who is always looking for the opportunity to learn new things and immerse myself in tech wherever possible. I'm a former tech writer turned coder who is eager to dive deeper into the industry and create great products and engaging features.
+        I am an enthusiastic developer who is always looking for the opportunity to learn new things and immerse myself in tech wherever possible. I&apos;m a former tech writer turned coder who is eager to dive deeper into the industry and create great products and engaging features.
 
         </p>
        
         <div className="py-7  md:text-xl lg:text-2xl">
           <p>
-          I'm interested in joining Rusty Monkey as <span className="underline decoration-primary"> it's an exciting organisation to work
-           for </span> where I can learn new skills on the job and contribute to its client's success.
+          I'm interested in joining Rusty Monkey as <span className="underline decoration-primary"> it&apos;s an exciting organisation to work
+           for </span> where I can learn new skills on the job and contribute to its client&apos;s success.
            I have formerly worked for a WPP agency in the past and am keen to offer my new
             skills to Rusty Monkey and produce engaging websites and work with stakeholders in this role.
           </p>

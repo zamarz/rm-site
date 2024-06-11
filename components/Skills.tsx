@@ -11,7 +11,7 @@ const Skills = () => {
               <li>I worked as a B2B tech writer <span className="underline decoration-secondary"> but wanted to dive deeper into the industry </span> so enlisted at a software development bootcamp which equipped me with essential skills including proficiency in JavaScript, React, Jest, Git and GitHub...and much more! </li>
               <li>Since graduating I have been refining my skills in personal projects and <span className="underline decoration-secondary">learning new things </span> like TypeScript and Next.js.</li>
 
-              <li>I've been part of a number of agile teams, in the UK and abroad, and know how to make full use of collaboration tech like Slack, Jira, and Trello. 
+              <li>I&apos;ve been part of a number of agile teams, in the UK and abroad, and know how to make full use of collaboration tech like Slack, Jira, and Trello. 
               </li>           
                 <li>Want to see my work? Head to my portfolio and find links to my <a className="underline bg-primary hover:bg-secondary" href="https://www.zachmarzouk.dev/" target="blank"> project sites</a> and delicious code.</li>
             </ul>
