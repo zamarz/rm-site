@@ -28,7 +28,7 @@ const Intro = () => {
        
         <div className="py-7  md:text-xl lg:text-2xl">
           <p>
-          I'm interested in joining Rusty Monkey as <span className="underline decoration-primary"> it&apos;s an exciting organisation to work
+          I&apos;m interested in joining Rusty Monkey as <span className="underline decoration-primary"> it&apos;s an exciting organisation to work
            for </span> where I can learn new skills on the job and contribute to its client&apos;s success.
            I have formerly worked for a WPP agency in the past and am keen to offer my new
             skills to Rusty Monkey and produce engaging websites and work with stakeholders in this role.
