@@ -31,8 +31,8 @@ const Match = () => {
            </ul>
         </div>
 
-        <div>
-          <button>Drop me a line</button>
+        <div className="flex flex-col text-center justify-center items-center py-10">
+          <a href="mailto:zachmarzouk@gmail.com"><button className="button">Drop me a line</button></a>
         </div>
     </div>
     </section>

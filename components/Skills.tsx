@@ -16,6 +16,9 @@ const Skills = () => {
                 <li>Want to see my work? Head to my portfolio and find links to my <a className="underline bg-primary hover:bg-secondary" href="https://www.zachmarzouk.dev/" target="blank"> project sites</a> and delicious code.</li>
             </ul>
             </div>
+            <div className="flex flex-col text-center justify-center items-center py-10">
+          <a href="https://www.zachmarzouk.dev/" target="blank"><button className="button">Click for code</button></a>
+        </div>
             </div>
             </section>
   )
