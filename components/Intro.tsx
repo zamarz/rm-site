@@ -22,17 +22,16 @@ const Intro = () => {
           <h2 className="font-black text-5xl py-5">Hi, I'm Zach and I'm applying to the position of Front-End Developer at Rusty Monkey</h2>
         </div>
         <p className="text-2xl">
-          I'm an enthusiastic developer keen to delve deeper into the tech world
-          and continue my development journey.
+        I am an enthusiastic developer who is always looking for the opportunity to learn new things and immerse myself in tech wherever possible. I’m a former tech writer turned coder who is eager to dive deeper into the industry and create great products and engaging features.
+
         </p>
        
         <div className="py-7  text-xl lg:text-2xl">
           <p>
-            After covering the world of B2B tech as a writer, I decided to take
-            the plunge and dive even deeper into the industry by becoming a
-            software developer.
-
-            I've applied to this job because...
+          I'm interested in joining Rusty Monkey as it's an exciting organisation to work
+           for where I can learn new skills on the job and contribute to its client's success.
+           I have formerly worked for a WPP agency in the past and am keen to offer my new
+            skills to Rusty Monkey and produce engaging websites and work with stakeholders in this role.
           </p>
         </div>
     </div>
