@@ -27,7 +27,7 @@ const Match = () => {
             <li className="flex flex-col items-center space-x-2 "><FaComputer /> I recently <span className="underline decoration-secondary">built my first ever PC</span></li>
             <li className="flex flex-col items-center space-x-2"> <FaRegCalendar /> I&apos;m an advocate of hybrid working and <a className="underline bg-primary hover:bg-secondary" target="blank" href="https://www.itpro.com/business-strategy/flexible-working/361831/why-its-time-for-a-three-day-working-week-in-2022">the four day week.</a></li>
             <li className="flex flex-col items-center space-x-2"> <FaBook /> I like to read (wow so cool)</li>
-            <li className="flex flex-col items-center space-x-2"> <FaCodeBranch /> I volunteer with <span className="underline decoration-secondary">Code Your Future</span>, a non-profit that helps marginalised people learn how to code.</li>
+            <li className="flex flex-col items-center space-x-2"> <FaCodeBranch /> I volunteer with <span className="underline decoration-secondary">Code Your Future</span>.</li>
            </ul>
         </div>
 
