@@ -24,7 +24,7 @@ const Match = () => {
           <h2 className="font-black text-3xl lg:text-5xl py-5">It's a match?</h2>
           <h3 className="text-xl lg:text-2xl py-5">Want to learn more about me? Here are some fun facts:</h3>
            <ul className="space-y-4 align-middle flex flex-col lg:text-2xl">
-            <li className="flex flex-col items-center space-x-2 align-middle"><FaComputer /> I recently <span className="underline decoration-secondary">built my first ever PC</span></li>
+            <li className="flex flex-col items-center space-x-2 "><FaComputer /> I recently <span className="underline decoration-secondary">built my first ever PC</span></li>
             <li className="flex flex-col items-center space-x-2"> <FaRegCalendar /> I'm an advocate of hybrid working and <a className="underline bg-primary hover:bg-secondary" target="blank" href="https://www.itpro.com/business-strategy/flexible-working/361831/why-its-time-for-a-three-day-working-week-in-2022">the four day week.</a></li>
             <li className="flex flex-col items-center space-x-2"> <FaBook /> I like to read (wow so cool)</li>
             <li className="flex flex-col items-center space-x-2"> <FaCodeBranch /> I volunteer with <span className="underline decoration-secondary">Code Your Future</span>, a non-profit that helps marginalised people learn how to code.</li>
